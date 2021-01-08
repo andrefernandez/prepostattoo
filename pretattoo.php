@@ -211,7 +211,8 @@ $htmlContent = '
 
 
 
-$to      = $_POST['email'];
+//$to      = $_POST['email'];
+$to      = 'andrefteodoro@gmail.com';
 $subject = 'Dicas pré Tattoo, Dont Touch';
 $message = $htmlContent; 
 $headers = "MIME-Version: 1.0" . "\r\n"; 
