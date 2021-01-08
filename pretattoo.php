@@ -226,5 +226,7 @@ if(mail($to, $subject, $message, $headers)){
 }else{ 
    echo 'Email sending failed.'; 
 }
+echo '<br />';
+echo phpversion();
 
 ?>
