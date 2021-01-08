@@ -1,3 +1,4 @@
 <?php
- echo phpversion();
+echo 'cheguei papai';
+ //echo phpversion();
 ?>
