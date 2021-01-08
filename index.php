@@ -16,7 +16,7 @@
 	</style>
 </head>
 <body>
-	<img src="https://prepostattoo.herokuapp.com/img-1.png">
+	<img src="https://prepostattoo.herokuapp.com/imgs/img-1.png">
 	<h1>Disparo de E-mail Pré-tattoo</h1>
 
     <form id="formulario" action="https://prepostattoo.herokuapp.com/pretattoo.php" method="post">
